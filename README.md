@@ -1,4 +1,4 @@
-# Sample Hardhat Project![defi](https://github.com/Rana-Paul/dEX-DeFi/assets/72220579/9dbe4f88-3319-4aee-8d98-ba4fbc8a83c2)
+# dEX-DeFi Project![defi](https://github.com/Rana-Paul/dEX-DeFi/assets/72220579/9dbe4f88-3319-4aee-8d98-ba4fbc8a83c2)
 
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
