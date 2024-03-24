@@ -46,7 +46,7 @@ function App() {
       loadAccount(dispatch, provider);
     })
 
-    //  Dapp Token Smart Contract
+    // Dapp Token Smart Contract
     await loadTokens(
       provider,
       [config[chainId].DApp.address, config[chainId].mETH.address],
@@ -60,7 +60,7 @@ function App() {
       dispatch
     );
 
-    //Fetch all  orders
+    // Fetch all  orders
     loadAllOrders(provider, exchange, dispatch)
     
     // Listen to Event
