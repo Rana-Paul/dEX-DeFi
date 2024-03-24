@@ -35,7 +35,7 @@ const Alert = () => {
         ) : !isPending ? (
 
           <div className="alert alert--remove" onClick={removeHandler} ref={alertRef}>
-            <h1>Transaction Successful</h1>
+            <h1>Transaction Successful...</h1>
           </div>
 
         ) : (
